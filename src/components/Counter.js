@@ -12,10 +12,10 @@ function Counter() {
       textAlign: 'center',
       marginTop: '50px',
       border: '1px solid blue',
-      padding: '20px',
-      width: '200px',
+      padding: '50px',
+      width: '250px',
       margin: 'auto',
-      borderRadius: '8px',
+      borderRadius: '15px',
       backgroundColor: '#ccc'
     }}>
       <h2>🔢 Count: {count}</h2>
