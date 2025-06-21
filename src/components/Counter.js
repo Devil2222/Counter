@@ -15,7 +15,7 @@ function Counter() {
       padding: '50px',
       width: '250px',
       margin: 'auto',
-      borderRadius: '10px',
+      borderRadius: '15px',
       backgroundColor: '#ccc'
     }}>
       <h2>🔢 Count: {count}</h2>
